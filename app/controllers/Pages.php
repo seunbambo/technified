@@ -12,7 +12,7 @@ class Pages extends Controller {
 
         $data = [
             'title' => 'Technified',
-            'description' => 'Your number 1 choice for automation of business processes'
+            'description' => 'Best choice for business process automation'
         ];
         
         $this->view('pages/index', $data);
