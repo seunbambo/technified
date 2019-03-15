@@ -8,7 +8,7 @@ define('DB_NAME', 'technified');
 // App Root
 define('APPROOT', dirname(dirname(__FILE__)));
 // URL Root
-define('URLROOT', 'http://technified.herokuapp.com');
+define('URLROOT', 'http://technified.herokuapp.com/public');
 // Site Name
 define('SITENAME', 'Technified');
 // App Version
